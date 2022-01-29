@@ -1,2 +1,4 @@
-# pelunasan-tracker
-Tracking pelunasan serta menjembatani data-data yang diperoleh secara manual dari excel dan data-data di database MySQL
+# Pelunasan Tracker
+Tracking pelunasan serta menjembatani data-data yang diperoleh secara manual di excel dan data-data di database MySQL.
+
+Project ini dibuat pada Juli 2021
